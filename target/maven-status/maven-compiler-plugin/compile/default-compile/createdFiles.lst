@@ -1,0 +1,12 @@
+gustavo\unicesumar\entidades\Conta.class
+gustavo\unicesumar\entidades\BaseEntity.class
+gustavo\unicesumar\controller\BaseController.class
+gustavo\unicesumar\repositorios\AgenciaRepository.class
+gustavo\unicesumar\entidades\Agencia.class
+gustavo\unicesumar\controller\AgenciaController.class
+gustavo\unicesumar\entidades\Banco.class
+gustavo\unicesumar\controller\BancoController.class
+App\AppRun.class
+gustavo\unicesumar\controller\ContaController.class
+gustavo\unicesumar\repositorios\ContaRepostory.class
+gustavo\unicesumar\repositorios\BancoRepository.class
